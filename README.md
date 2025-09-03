@@ -31,8 +31,3 @@ The SQL queries in this project were designed to answer a series of business que
 * **MySQL**: The primary database used for data storage and running the analytical queries.
 * **SQL**: Used for data exploration, manipulation, and querying the dataset.
 * **Tableau**: Used to create an interactive dashboard for visualizing the results.
-## 🤝 Connect with Me
-
-Feel free to connect with me on professional networks to discuss this project or any other data-related topics!
-* **GitHub**: [khanbakir](https://github.com/khanbakir)
-* **LinkedIn**: [Bakir Khan](https://www.linkedin.com/in/bakir-khan-a75b40271/)
